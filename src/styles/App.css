@@ -1,0 +1,16 @@
+#board-div {
+  width: 625px;
+}
+
+#board-div .board-row {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+#board-div .board-row .board-square {
+  height: 75px;
+  width: 75px;
+  border: 1px solid black;
+}
+/*# sourceMappingURL=App.css.map */
